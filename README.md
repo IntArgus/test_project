@@ -1,4 +1,5 @@
-# test_project
-idea factory
+## 국방AI 프로젝트 아이디어 주제(1)
+  
 
-개인과제, 조별과제
+Persnal_project
+Team_project
